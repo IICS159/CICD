@@ -1,3 +1,0 @@
-This is a test file 1
-successfully moved to dev branch
-lets do second check
